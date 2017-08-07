@@ -1,0 +1,30 @@
+﻿  Utils.cpp
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\utils.cpp(111): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+  TextLabel.cpp
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\textlabel.cpp(73): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  Scene.cpp
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\scene.h(56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\scene.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\scene.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\scene.cpp(87): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\scene.cpp(99): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\scene.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ShaderLoader.cpp
+  main.cpp
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\scene.h(56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Camera.cpp
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\camera.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\jarlin school\2017\semester 1\gd1p04 - graphics programming\my work\3d game - jarlin barnard\2d game - jarlin\2d game - jarlin\camera.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  SOIL.lib(SOIL.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'E:\Jarlin School\2017\Semester 1\GD1P04 - Graphics Programming\My Work\3D Game - Jarlin Barnard\2d Game - Jarlin\Debug\vc120.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'E:\Jarlin School\2017\Semester 1\GD1P04 - Graphics Programming\My Work\3D Game - Jarlin Barnard\2d Game - Jarlin\Debug\vc120.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'E:\Jarlin School\2017\Semester 1\GD1P04 - Graphics Programming\My Work\3D Game - Jarlin Barnard\2d Game - Jarlin\Debug\vc120.pdb'; linking object as if no debug info
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'E:\Jarlin School\2017\Semester 1\GD1P04 - Graphics Programming\My Work\3D Game - Jarlin Barnard\2d Game - Jarlin\Debug\vc120.pdb'; linking object as if no debug info
+  2d Game - Jarlin.vcxproj -> E:\Jarlin School\2017\Semester 1\GD1P04 - Graphics Programming\My Work\3D Game - Jarlin Barnard\2d Game - Jarlin\Debug\3D Game - Jarlin.exe
+  2d Game - Jarlin.vcxproj -> E:\Jarlin School\2017\Semester 1\GD1P04 - Graphics Programming\My Work\3D Game - Jarlin Barnard\2d Game - Jarlin\Debug\3D Game - Jarlin.pdb (Partial PDB)
